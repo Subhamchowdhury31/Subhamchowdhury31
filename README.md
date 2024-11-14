@@ -1,12 +1,12 @@
-## Hi there 👋
-
+## Hiiiii 👋
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
 ### 🛠️ Tech Stack  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />  
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhamchowdhury31&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhamchowdhury31&layout=compact&theme=radical)  
@@ -33,4 +33,4 @@
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chowdhurysubham7576@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-242424?style=for-the-badge&logo=About.me&logoColor=white)](https://subhamchowdhury31.github.io/portfolio)
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
+
