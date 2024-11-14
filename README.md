@@ -2,7 +2,7 @@
 
 # Hi, I'm Subham Chowdhury 👋  
 
-🎓 Pursuing Bachelor's in Computer Science and Engineering  
+🎓 Pursuing Bachelor's in Computer Science and Engineering   
 🥇 Winner of the Geeks of Gurukul Coding Marathon.  
 🔫 Rifle shooting enthusiast – secured a 🥉 in the All Assam Rifle Shooting Association.  
 
@@ -31,7 +31,8 @@
 
 ### 🚀 Featured Projects  
 
-[![Medicine E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=medicine-ecommerce&theme=radical)](https://github.com/Subhamchowdhury31/medicine-ecommerce) [![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=password-manager&theme=radical)](https://github.com/Subhamchowdhury31/password-manager)  
+[![Password Manager](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=password-manager&theme=radical)](https://github.com/Subhamchowdhury31/password-manager)  
+[![MediChat](https://github-readme-stats.vercel.app/api/pin/?username=Subhamchowdhury31&repo=MediChat&theme=radical)](https://github.com/Subhamchowdhury31/MediChat.git)  
 
 ---
 
