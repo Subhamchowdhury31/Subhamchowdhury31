@@ -2,7 +2,7 @@
 
 # Hi, I'm Subham Chowdhury 👋  
 
-🎓 Pursuing Bachelor's in Computer Science and Engineering   
+🎓 Pursuing Bachelor's in Computer Science and Engineering  
 🥇 Winner of the Geeks of Gurukul Coding Marathon.  
 🔫 Rifle shooting enthusiast – secured a 🥉 in the All Assam Rifle Shooting Association.  
 
@@ -17,7 +17,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 #### **Tools**  
-![Sigma](https://img.shields.io/badge/-Sigma-FF3366?style=for-the-badge&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Visily](https://img.shields.io/badge/-Visily-FF5722?style=for-the-badge&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Visily](https://img.shields.io/badge/-Visily-FF5722?style=for-the-badge&logoColor=white)  
 
 ---
 
