@@ -1,4 +1,4 @@
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontAlignY=40)
 
 # Hi, I'm Subham Chowdhury 👋  
 
@@ -42,4 +42,4 @@
 
 ---
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
