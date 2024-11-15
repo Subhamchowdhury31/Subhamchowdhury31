@@ -4,7 +4,7 @@
 
 🎓 Pursuing Bachelor's in Computer Science and Engineering   
 🥇 Winner of the Geeks of Gurukul Coding Marathon.  
-🔫 Rifle shooting enthusiast – secured a 🥉 in the All Assam Rifle Shooting Association.  
+🔫 Rifle shooting enthusiast – secured a bronze 🥉 in the All Assam Rifle Shooting Association (state champion).  
 
 ---
 
